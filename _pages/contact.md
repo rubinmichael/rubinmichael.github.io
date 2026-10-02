@@ -10,7 +10,7 @@ redirect_from:
 
 **Office:** Herbst Hall (formerly Oak Hall), #446
 
-**Office Hours (Fall 2025):** Thursdays, 10am–12pm
+**Office Hours (Fall 2026):** Thursdays, 10am–12pm
 
 **Faculty Webpage:** [https://polisci.uconn.edu/person/michael-rubin/](https://polisci.uconn.edu/person/michael-rubin/)
 
