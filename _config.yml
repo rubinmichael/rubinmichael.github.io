@@ -23,7 +23,7 @@ repository               : "rubinmichael/rubinmichael.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://www.michaelarubin.com/uploads/2/6/3/8/26383671/headshot-2022-1-mod_orig.png"
+  avatar           : "headshot.png"
   name             : "Michael A. Rubin, PhD"
   pronouns         : # example: "she/her"
   bio              : "Assistant Professor, Dept. of Political Science & Human Rights Institute"
