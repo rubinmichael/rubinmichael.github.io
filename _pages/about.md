@@ -5,7 +5,6 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-  - /index.html
 ---
 
 **Research interests:** Civil Wars; Conflict Processes; Political Violence; International Security; Human Rights
